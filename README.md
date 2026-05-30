@@ -15,7 +15,7 @@ Evaluated on PDBbind and CrossDocked benchmarks, L2DiffM achieves consistent imp
 
 ## Code
 
-Code will be released after paper acceptance.
+The code will be organized and published after the paper is accepted.
 
 ## Citation
 
